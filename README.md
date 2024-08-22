@@ -11,7 +11,8 @@
 - **Predictive Maintenance**: Prevent catastrophic failures by identifying issues before they escalate.
 - **User-Friendly Interface**: Streamlit-powered app with intuitive data upload and visualization features.
 
-![Data Visualization](https://i.pinimg.com/originals/f8/8a/ca/f88acab7ffd127b4465659500aa0538f.gif)
+![Data Visualization](![image](https://github.com/user-attachments/assets/7f284321-6e3c-452e-a2a9-b259f144cd73)
+)
 
 ## 📊 Data Visualization
 Visualize training and validation accuracy, loss, and sample images directly in the app. Understand your model’s performance at a glance.
