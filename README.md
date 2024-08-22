@@ -16,7 +16,7 @@
 ## 📊 Data Visualization
 Visualize training and validation accuracy, loss, and sample images directly in the app. Understand your model’s performance at a glance.
 
-![Data visualisation](https://miro.medium.com/v2/resize:fit:1400/1*hTX8CYnM6UKq5Aqsf2ukUw.gif)
+![Data visualisation](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F296956169151039996%2F&psig=AOvVaw2jyfJVni0zvs3pMfAz1pCU&ust=1724420504612000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMCpqYzdiIgDFQAAAAAdAAAAABAR)
 ## 🛠️ Installation
 
 1. Clone the repository:
