@@ -16,7 +16,8 @@
 ## 📊 Data Visualization
 Visualize training and validation accuracy, loss, and sample images directly in the app. Understand your model’s performance at a glance.
 
-![Data Visualization](https://media.giphy.com/media/3o7aCSDsAw6sCQZBWQ/giphy.gif)
+![Data Visualization](![Uploading image.png…]()
+)
 
 ## 🛠️ Installation
 
