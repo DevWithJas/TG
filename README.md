@@ -11,7 +11,7 @@
 - **Predictive Maintenance**: Prevent catastrophic failures by identifying issues before they escalate.
 - **User-Friendly Interface**: Streamlit-powered app with intuitive data upload and visualization features.
 
-![Data Visualization](https://cdn.dribbble.com/users/90293/screenshots/4022261/media/c1d7666521e22a499db1b093f4896e58.gif)
+![Data Visualization](https://github.com/DevWithJas/TG/blob/main/c1d7666521e22a499db1b093f4896e58.gif)
 )
 
 ## 📊 Data Visualization
