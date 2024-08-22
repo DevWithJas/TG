@@ -11,7 +11,7 @@
 - **Predictive Maintenance**: Prevent catastrophic failures by identifying issues before they escalate.
 - **User-Friendly Interface**: Streamlit-powered app with intuitive data upload and visualization features.
 
-![Data Visualization](![image](https://github.com/user-attachments/assets/7f284321-6e3c-452e-a2a9-b259f144cd73)
+![Data Visualization](https://cdn.dribbble.com/users/90293/screenshots/4022261/zeo_lab2.gif)
 )
 
 ## 📊 Data Visualization
