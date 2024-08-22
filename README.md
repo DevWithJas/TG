@@ -1,6 +1,6 @@
 # 🌪️ Turbine Guardian: AI-Powered Predictive Maintenance for Turbines 🌪️
 
-![Turbine Guardian](https://media.giphy.com/media/l4FGwHEUCGILzQgko/giphy.gif)
+![Turbine Guardian](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/manufacturing.gif)
 
 ## About Turbine Guardian
 **Turbine Guardian** leverages cutting-edge AI and Machine Learning technologies to provide predictive maintenance solutions for turbines. By analyzing images of turbine components, our application detects early signs of wear and tear, helping prevent breakdowns and reducing maintenance costs.
